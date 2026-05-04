@@ -16,6 +16,13 @@ Players can roll the dice using the Roll Dice button, watch the dice shake with 
 
 ---
 
+## Live Demo
+
+- [View Live Project](https://muskan-k-soni.github.io/dice-game/)
+- [View Source Code on GitHub](https://github.com/Muskan-K-Soni/dice-game)
+
+---
+
 ## Technologies Used
 
 - HTML5
